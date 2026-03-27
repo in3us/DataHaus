@@ -103,4 +103,4 @@ The listing dataset is a snapshot and will drift from current market conditions 
 
 **Steven Myette**
 Data Professional — Boston, MA
-[LinkedIn](#) · [GitHub](#) · [Tableau Public](https://public.tableau.com/app/profile/steven.myette)
+[LinkedIn](https://www.linkedin.com/in/steven-myette-7119191b/) · [GitHub](https://github.com/in3us) · [Tableau Public](https://public.tableau.com/app/profile/steven.myette)
