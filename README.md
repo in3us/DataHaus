@@ -1,7 +1,7 @@
 # DataHaus
 ### Massachusetts Real Estate Analytics
 
-**Live tool:** [https://claude.ai/public/artifacts/dc1ba935-86f8-474f-847e-0c87fe746a79](#)
+**Live tool:** [DataHaus](https://claude.ai/public/artifacts/dc1ba935-86f8-474f-847e-0c87fe746a79)
 
 ---
 
